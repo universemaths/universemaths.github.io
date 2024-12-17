@@ -1,10 +1,10 @@
 # Universe Math
 
-### (disclaimer, this website has been FORKED from [Duck Math](https://duckmath.org)
+### (disclaimer, this website has been FORKED from [Duck Math](https://duckmath.org) and is under construction. also, the domains havent been purchased as of now but i will be getting them soon.)
 
 ## My Website
 
-This website was retextured and NOT made by [gio8l](gio8l.carrd.co)
+This website was reskinned/revamped by [gio8l](gio8l.carrd.co)
 
 - Site Links: https://docs.google.com/document/d/1gstMf0BsWe3BGXJTVqedjDe945asIzZP85_4FXhmG1A/
 
@@ -12,12 +12,20 @@ This website was retextured and NOT made by [gio8l](gio8l.carrd.co)
 
 Join my discord below for any questions or concerns about the website!
 
-- Discord: [discord.gg/t2EwRyhFcG](https://discord.gg/t2EwRyhFcG)
+- Discord: [discord.gg/sgCtYGMp)](https://discord.gg/sgCtYGMp)
 
-[![GitHubLogo](https://github-production-user-asset-6210df.s3.amazonaws.com/146117946/276102576-3afde79b-eca1-46af-a4c5-91e290b8e750.png)](https://discord.gg/t2EwRyhFcG)
+
 </a>
 
+
+DISCLAIMER! (again): this repository/website was made by Maddox and many other people listed below!
+ANOTHER DISCLAIMER!: this repository/website (Duck Math) was reskinned/revamped into Universe Math as Duck Math IS OPEN SORCED, therefore im able to do this <3
+
+EVERYTHING UNDER THE LINE BELOW IS THE SAME AS DUCK MATH! (i left it the same for credits)
+________________________________________________________________________________________________________ 
+
 ## Credits
+
 
 A quick thanks to everyone who made this possible! 🙏😊
 
