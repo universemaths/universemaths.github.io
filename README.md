@@ -4,7 +4,7 @@
 
 ## My Website
 
-This website was reskinned/revamped by [gio8l](gio8l.carrd.co)
+This website was reskinned/revamped by [gio8l](https://gio8l.lol)
 
 - Site Links: https://docs.google.com/document/d/1gstMf0BsWe3BGXJTVqedjDe945asIzZP85_4FXhmG1A/
 
