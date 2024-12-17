@@ -1,6 +1,7 @@
 # Universe Math
 
-### (disclaimer, this website has been FORKED from [Duck Math](https://duckmath.org) and is under construction.)
+### (disclaimer, this website has been FORKED from [Duck Math](https://github.com/duckmath/duckmath.github.io) and is under construction.)
+[Duck Math Link:](https://duckmath.org)
 
 ## My Website
 
