@@ -1,16 +1,12 @@
-# Duck Math
+# Universe Math
 
-## How To Fork this Repository
-
-Click the "Fork this Repository" button on the top right. After that, you will be able to commit changes and submit pull/merge requests to any file in this repository.
+### (disclaimer, this website has been FORKED from [Duck Math](https://duckmath.org)
 
 ## My Website
 
-This is a fun website that is a collection of applications from different sites, and I hope everyone can enjoy it. Thanks to everyone for using it, your support means everything. I know I coded this very badly, it's my first time using front-end, I should have used JS templates and a library such as React. :) 🦆
+This website was retextured and NOT made by [gio8l](gio8l.carrd.co)
 
-- Site Link: [duckmath.org](https://duckmath.org/) also hosted at [nullxiety.com](https://nullxiety.com/)
-
-[![Ducky](https://github-production-user-asset-6210df.s3.amazonaws.com/146117946/276101079-c847a562-a347-40ba-974a-8163b70b1db8.png)](https://duckmath.org)
+- Site Links: https://docs.google.com/document/d/1gstMf0BsWe3BGXJTVqedjDe945asIzZP85_4FXhmG1A/
 
 ## Join My Discord!
 
